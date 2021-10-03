@@ -1,0 +1,67 @@
+
+Feb 04, 2020 14:20:22.60 NEW SESSION
+Feb 04, 2020 14:20:22.60 Opening in existing browser session.
+
+Feb 05, 2020 21:47:22.28 NEW SESSION
+Feb 05, 2020 21:47:22.28 [13980, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Feb 05, 2020 21:47:22.28 [13980, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Feb 05, 2020 21:47:22.29 ExceptionHandler::GenerateDump cloned child 14108
+Feb 05, 2020 21:47:22.29 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Feb 05, 2020 21:47:22.29 ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Feb 05, 2020 21:54:48.97 
+Feb 05, 2020 21:54:48.97 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Feb 05, 2020 21:54:48.97 
+
+Feb 07, 2020 14:35:12.26 NEW SESSION
+Feb 07, 2020 14:35:12.26 [2923, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Feb 07, 2020 14:35:12.36 [2923, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Feb 07, 2020 14:35:12.36 ExceptionHandler::GenerateDump cloned child 3116
+Feb 07, 2020 14:35:12.36 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Feb 07, 2020 14:35:12.36 ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Feb 07, 2020 14:55:57.14 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:55:57.18 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:55:57.20 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:55:57.20 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:55:57.20 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:55:57.20 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:55:57.20 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:57:06.97 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:57:06.97 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:57:06.97 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:57:06.98 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:57:06.98 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:57:07.06 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 14:57:07.06 [Parent 3118, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-I9MB8p/firefox-72.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Feb 07, 2020 15:01:17.75 
+Feb 07, 2020 15:01:17.75 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Feb 07, 2020 15:01:17.75 
+Feb 07, 2020 15:01:41.52 [31656, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Feb 07, 2020 15:01:41.52 [31656, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Feb 07, 2020 15:01:41.52 ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Feb 07, 2020 15:01:41.52 31863
+Feb 07, 2020 15:01:41.53 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Feb 07, 2020 15:01:42.75 
+Feb 07, 2020 15:01:42.75 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Feb 07, 2020 15:01:42.75 
+Feb 07, 2020 15:01:56.48 
+Feb 07, 2020 15:01:56.48 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Feb 07, 2020 15:01:56.48 
+Feb 07, 2020 15:02:47.78 [31887, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Feb 07, 2020 15:02:47.79 [31887, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Feb 07, 2020 15:02:47.79 ExceptionHandler::GenerateDump cloned child 32076
+Feb 07, 2020 15:02:47.79 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Feb 07, 2020 15:02:47.79 ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+Mar 04, 2020 17:38:07.97 NEW SESSION
+Mar 04, 2020 17:38:07.97 [6905, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Mar 04, 2020 17:38:08.00 [6905, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Mar 04, 2020 17:38:08.00 ExceptionHandler::GenerateDump cloned child 6973
+Mar 04, 2020 17:38:08.00 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Mar 04, 2020 17:38:08.00 ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+Mar 05, 2020 11:18:53.90 NEW SESSION
+Mar 05, 2020 11:18:53.90 [8032, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Mar 05, 2020 11:18:53.94 [8032, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Mar 05, 2020 11:18:53.94 ExceptionHandler::GenerateDump cloned child 8157
+Mar 05, 2020 11:18:53.95 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Mar 05, 2020 11:18:53.95 ExceptionHandler::WaitForContinueSignal waiting for continue signal...

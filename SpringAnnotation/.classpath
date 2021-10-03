@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_231"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring4.3.9"/>
+	<classpathentry kind="lib" path="/media/miraj/New Volume/Linux/Jar files/spring/javaxjar/com.springsource.javax.inject-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/media/miraj/New Volume/Linux/Jar files/spring/javaxjar/com.springsource.javax.annotation-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/media/miraj/New Volume/Linux/Jar files/spring/javaxjar/com.springsource.javax.activation-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

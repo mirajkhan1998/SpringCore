@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="student" class="com.ci.beans.Student">
+		<property name="name" value="miraj" />
+		<property name="roll" value="12" />
+		<property name="courses">
+			<list value-type="java.lang.String">
+				<value>java</value>
+				<value>php</value>
+				<value>python</value>
+			</list>
+		</property>
+		<property name="address">
+			<set>
+				<bean id="address1" class="com.ci.beans.Address">
+					<property name="addressLine" value="SRT-13"></property>
+					<property name="houseNumer" value="101"></property>
+					<property name="locality" value="ragdih"></property>
+
+				</bean>
+
+			</set>
+
+		</property>
+
+	</bean>
+
+</beans>

@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Springcore/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2762496093.index
+2349555980.index
+3512392084.index
+1256497406.index
+662040075.index
+352465078.index
+1230465155.index
+3518119086.index
+2867167276.index
+3231130264.index

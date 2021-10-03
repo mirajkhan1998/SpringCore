@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.3.xsd">
+	<bean id="radio" class="com.bw.beans.Radio" autowire="byType">
+	</bean>
+	<bean id="reciever" class="com.bw.beans.Reciever" >
+		<property name="frequency" value="259" />
+		<property name="band" value="AM" />
+	</bean>
+	<bean id="reciever1" class="com.bw.beans.Reciever" >
+		<property name="frequency" value="235" />
+		<property name="band" value="PM" />
+	</bean>
+
+</beans>
+<!-- 
+   byName=identify the dependency matching with attribute of the target class in spring bean configuration file
+ -->

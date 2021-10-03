@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1894027211.index
+/CharacterStreamInternationalization/src

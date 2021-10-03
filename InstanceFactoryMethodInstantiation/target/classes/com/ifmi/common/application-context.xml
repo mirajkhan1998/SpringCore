@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="stockManager" class="com.ifmi.icici.beans.StockManager">
+		<constructor-arg ref="stockInfo" />
+	</bean>
+	<bean id="stockInfo" factory-bean="bseServiceLocator"
+		factory-method="getService">
+		<constructor-arg value="bseStockManager" />
+	</bean>
+
+	<bean id="bseServiceLocator"
+		class="com.ifmi.icici.beans.BseServiceLocator" />
+</beans>

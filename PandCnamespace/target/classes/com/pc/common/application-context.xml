@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:c="http://www.springframework.org/schema/c"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="product" class="com.pc.beans.Product"
+		p:productName="Smartphone" p:productId="p001" p:cost="20000"
+		p:description="Full Hd" p:manufacturer-ref="manufacturer" />
+	<bean id="manufacturer" class="com.pc.beans.Manufacturer"
+		c:manufactureName="xiomi" />
+
+
+</beans>

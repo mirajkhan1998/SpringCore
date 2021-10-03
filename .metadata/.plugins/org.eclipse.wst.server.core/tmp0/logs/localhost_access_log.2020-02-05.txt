@@ -1,0 +1,4 @@
+127.0.0.1 - - [05/Feb/2020:21:46:13 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [05/Feb/2020:21:47:30 +0530] "GET /CharacterStreamInternationalization/ HTTP/1.1" 404 1114
+127.0.0.1 - - [05/Feb/2020:21:47:41 +0530] "GET /CharacterStreamInternationalization/data.html HTTP/1.1" 200 201
+127.0.0.1 - - [05/Feb/2020:21:50:29 +0530] "POST /CharacterStreamInternationalization/cs HTTP/1.1" 200 74

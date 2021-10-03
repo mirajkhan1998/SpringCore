@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.3.xsd">
+	<bean id="gatedCommunityConstrunction"
+		class="com.nbf.beans.Construnction">
+		<property name="propertyType" value="gatedCommunity" />
+		<property name="location" value="hyderabad" />
+		<property name="sqfts" value="125462" />
+		<property name="estimatedCost" value="256558554" />
+	</bean>
+
+</beans>

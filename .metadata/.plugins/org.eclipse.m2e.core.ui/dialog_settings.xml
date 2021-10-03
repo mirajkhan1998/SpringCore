@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/BeanlifeCycle"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/CollectionMavenInjection"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/AwareInterface/src/main/java/com/ai/test/AwareTest.java"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/BeanAlias/pom.xml"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/BeanScope"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/BeanScopeConcept"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/BeanAlias"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/InstanceFactoryMethodInstantiation"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/InstanceFactoryMethodInstantiation/src/main/java/com/ifmi/icici/test/IFMITest.java"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/ParentPom/pom.xml"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/ParentPom"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/CollectionInjectionMaven"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/BeanAutoWiring/src/com/bw/beans/Reciever.java"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/BeanAutoWiring/src/com/bw/test/BawTest.java"/>
+			<item value="/media/miraj/New Volume/JavaProgramOnlinux/Framework/Spring/Spring core/BeanAutoWiring/src/com/bw/common/application-context.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.bean"/>
+			<item value="com.beanlife"/>
+			<item value="com.beanlifecycle"/>
+			<item value="com.classloader"/>
+			<item value="com.awareInterface"/>
+			<item value="com.pnc"/>
+			<item value="com.beanScope"/>
+			<item value="Com.beanScope"/>
+			<item value="com.factoryBean"/>
+			<item value="com.factorybean"/>
+			<item value="com.sfmi"/>
+			<item value="BeanAlias"/>
+		</list>
+		<list key="name">
+			<item value="BeanScope"/>
+			<item value="factoryBean"/>
+			<item value="instanceFactoryMethodInstantiation"/>
+			<item value="beanAlias"/>
+		</list>
+		<list key="artifactId">
+			<item value="BeanlifeCycleConcept"/>
+			<item value="Beanlifecycleconcept"/>
+			<item value="BeanlifeCycle"/>
+			<item value="ClassLoader"/>
+			<item value="AwareInterface"/>
+			<item value="PandCnamespace"/>
+			<item value="BeanScope"/>
+			<item value="FactoryBean"/>
+			<item value="InstanceFactoryMethodInstantiation"/>
+			<item value="BeanAlisConcept"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="BeanAlias"/>
+			<item value="BeanAliasConcept"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="BeanAlias"/>
+			<item value="BeanAliasConcept"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

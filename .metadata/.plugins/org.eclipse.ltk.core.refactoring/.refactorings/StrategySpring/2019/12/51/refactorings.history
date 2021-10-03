@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ss.StrategyTest&apos; to &apos;com.ss.test&apos;&#x0A;- Original project: &apos;StrategySpring&apos;&#x0A;- Original element: &apos;StrategySpring/src/com.ss.StrategyTest&apos;&#x0A;- Renamed element: &apos;StrategySpring/src/com.ss.test&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ss.StrategyTest&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.ss.StrategyTest" name="com.ss.test" qualified="false" references="true" stamp="1576414694859" textual="false" version="1.0"/>
+</session>

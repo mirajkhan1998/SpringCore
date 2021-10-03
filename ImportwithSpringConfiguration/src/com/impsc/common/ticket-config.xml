@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="ticket" class="com.impsc.bean.Ticket">
+		<property name="ticketNo" value="2522" />
+		<property name="source" value="hyderabad" />
+		<property name="destination" value="pune" />
+	</bean>
+
+</beans>

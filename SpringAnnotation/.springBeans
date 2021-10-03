@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.11.201912160804-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/com/req/annotation/req-anno.xml</config>
+		<config>src/com/autowrite/annotation/autowire-annotation.xml</config>
+		<config>src/com/stereo/annotation/stereo-anno.xml</config>
+		<config>src/com/scope/annotation/scope-anno.xml</config>
+		<config>src/com/value/annotation/value-anno.xml</config>
+		<config>src/com/dependon/annotation/depend-anno.xml</config>
+		<config>src/com/impresource/annotation/delivery-info.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

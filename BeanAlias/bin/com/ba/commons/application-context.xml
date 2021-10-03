@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="flipkartOrderService"
+		class="com.ba.bean.FlipkartOrderService">
+
+		<!-- <property name="dtdcParcelService" ref="dtdcParcelService" /> -->
+
+		<property name="blueDartParcelService"
+			ref="blueDartParcelService" />
+		<property name="flipkartOrder" ref="flipkartOrder" />
+	</bean>
+	<alias name="dtdcParcelService" alias="blueDartParcelService" />
+	<bean id="dtdcParcelService" class="com.ba.bean.DtdcParcelService" />
+	<bean id="blueDartParcelService"
+		class="com.ba.bean.BlueDartParcelService" />
+	<bean id="flipkartOrder" class="com.ba.bean.FlipkartOrder">
+		<property name="product">
+			<list>
+				<bean name="product1" class="com.ba.bean.Product">
+					<property name="productName" value="smartPhone" />
+					<property name="price" value="12000" />
+					<property name="color" value="red" />
+				</bean>
+			</list>
+		</property>
+		<property name="address" ref="address" />
+	</bean>
+	<bean id="address" class="com.ba.bean.Address">
+		<property name="zipCode" value="825301" />
+		<property name="locality" value="maithrivan" />
+		<property name="houseNumber" value="125" />
+	</bean>
+
+</beans>

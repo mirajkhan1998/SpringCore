@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.si.test.SITest&apos; to &apos;CITest&apos;&#x0A;- Original project: &apos;ConstructorInjection&apos;&#x0A;- Original element: &apos;com.si.test.SITest&apos;&#x0A;- Renamed element: &apos;com.si.test.CITest&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SITest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.si.test{SITest.java[SITest" matchStrategy="1" name="CITest" qualified="false" references="true" similarDeclarations="false" stamp="1576481376914" textual="false" version="1.0"/>
+</session>

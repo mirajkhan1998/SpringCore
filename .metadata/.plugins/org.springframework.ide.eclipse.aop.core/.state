@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="CollectionInjection"/>
+<aop-project name="EventProcessing"/>
+<aop-project name="SetterInjection"/>
+<aop-project name="BeanScope"/>
+<aop-project name="ImportwithSpringConfiguration"/>
+<aop-project name="AwareInterface"/>
+<aop-project name="SpringAnnotation"/>
+<aop-project name="BeanlifecycleProgrammeticApproach"/>
+<aop-project name="InstanceFactoryMethodInstantiation"/>
+<aop-project name="BeanAutoWiring"/>
+<aop-project name="PropertyEditorCustom"/>
+<aop-project name="MethodReplacement"/>
+<aop-project name="BeanAutowiringConcept"/>
+<aop-project name="BeanlifeCycleConcept"/>
+<aop-project name="BeanAlisConcept"/>
+<aop-project name="BeanScopeConcept"/>
+<aop-project name="BeanPostProcessor"/>
+<aop-project name="PrimitiveInjection"/>
+<aop-project name="BeanAlias"/>
+<aop-project name="CollectionMavenInjection"/>
+<aop-project name="NestedBeanFactoryConcept"/>
+<aop-project name="ConstructorInjection"/>
+<aop-project name="BeanlifeCycle"/>
+<aop-project name="PropertyEditors"/>
+<aop-project name="LookUpMethodInjection"/>
+<aop-project name="NestedBeanFactory"/>
+<aop-project name="PandCnamespace"/>
+<aop-project name="StaticFactoryMethodInstantiation"/>
+<aop-project name="BeanFactoryPostProcessor"/>
+<aop-project name="FactoryBean"/>
+</aop-reference-model>
